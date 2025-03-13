@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\garci\\source\\repos\\LibreriaCalcuumizomi\\",
+  "WorkspaceRootPath": "C:\\Users\\garci\\source\\repos\\ConsolaCalcuUmizomi\\LibreriaCalcuumizomi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CCA9658-42EF-4271-A50C-A79BE9B99CF2}|LibreriaCalcuumizomi\\LibreriaCalcuumizomi.csproj|c:\\users\\garci\\source\\repos\\libreriacalcuumizomi\\libreriacalcuumizomi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCA9658-42EF-4271-A50C-A79BE9B99CF2}|LibreriaCalcuumizomi\\LibreriaCalcuumizomi.csproj|c:\\users\\garci\\source\\repos\\consolacalcuumizomi\\libreriacalcuumizomi\\libreriacalcuumizomi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCA9658-42EF-4271-A50C-A79BE9B99CF2}|LibreriaCalcuumizomi\\LibreriaCalcuumizomi.csproj|solutionrelative:libreriacalcuumizomi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\garci\\source\\repos\\LibreriaCalcuumizomi\\LibreriaCalcuumizomi\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\source\\repos\\ConsolaCalcuUmizomi\\LibreriaCalcuumizomi\\LibreriaCalcuumizomi\\Class1.cs",
               "RelativeDocumentMoniker": "LibreriaCalcuumizomi\\Class1.cs",
-              "ToolTip": "C:\\Users\\garci\\source\\repos\\LibreriaCalcuumizomi\\LibreriaCalcuumizomi\\Class1.cs",
+              "ToolTip": "C:\\Users\\garci\\source\\repos\\ConsolaCalcuUmizomi\\LibreriaCalcuumizomi\\LibreriaCalcuumizomi\\Class1.cs",
               "RelativeToolTip": "LibreriaCalcuumizomi\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:30:17.939Z",
               "EditorCaption": ""

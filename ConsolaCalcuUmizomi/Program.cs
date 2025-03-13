@@ -1,5 +1,5 @@
 ﻿using System;
-using libreriacalcuumizomi;
+using libreriacalcuumizomi; // Namespace correcto
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,7 +26,8 @@ namespace ConsolaCalcuUmizomi
                     Console.WriteLine("6. Potencia");
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Salir");
+                    Console.WriteLine("9. Exponencial (e^x)"); // Nueva opción
+                    Console.WriteLine("10. Salir"); // Actualizado para incluir la nueva opción
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
@@ -66,19 +67,30 @@ namespace ConsolaCalcuUmizomi
                             Console.WriteLine("El resultado de la fraccion es: " + Operaciones.fraccion(num0));
                             break;
                         case 9:
+                            teclado0();
+                            Console.WriteLine("El resultado de la exponencial (e^x) es: " + Operaciones.exponencial(num0)); // Nueva opción
+                            break;
+                        case 10:
                             Console.WriteLine("Has elegido salir de la aplicación");
                             Environment.Exit(1);
                             salir = true;
                             break;
                         default:
-                            Console.WriteLine("Elige una opcion entre 1 y 9");
+                            Console.WriteLine("Elige una opcion entre 1 y 10"); // Actualizado para incluir la nueva opción
                             break;
                     }
-
                 }
                 catch (FormatException e)
                 {
                     Console.WriteLine("Error al ingresar!!");
+                }
+                catch (ArgumentException e)
+                {
+                    Console.WriteLine(e.Message); // Manejo de excepciones para la raíz cuadrada y otros métodos
+                }
+                catch (DivideByZeroException e)
+                {
+                    Console.WriteLine(e.Message); // Manejo de excepciones para división y porcentaje
                 }
             }
         }

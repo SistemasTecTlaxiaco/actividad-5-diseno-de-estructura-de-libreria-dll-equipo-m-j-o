@@ -144,6 +144,16 @@ namespace libreriacalcuumizomi
             }
         }
 
+        /// <summary>
+        /// Calcula la función exponencial (e^x).
+        /// </summary>
+        /// <param name="numero">Exponente.</param>
+        /// <returns>Resultado de e^x.</returns>
+        public static double exponencial(double numero)
+        {
+            return Math.Exp(numero); // Calcula e^x
+        }
+
         // Función auxiliar para calcular el máximo común divisor (GCD)
         private static int GCD(int a, int b)
         {
@@ -155,6 +165,5 @@ namespace libreriacalcuumizomi
             }
             return a;
         }
-
     }
 }
