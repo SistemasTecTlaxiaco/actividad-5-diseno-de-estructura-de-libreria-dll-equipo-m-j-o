@@ -1,0 +1,10 @@
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.exe.config
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.exe
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.pdb
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\LibreriaCalcuumizomi.dll
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\LibreriaCalcuumizomi.pdb
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaC.21C2CF82.Up2Date
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.exe
+C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.pdb

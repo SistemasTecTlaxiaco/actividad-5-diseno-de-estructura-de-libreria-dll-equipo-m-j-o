@@ -1,0 +1,6 @@
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\bin\Debug\LibreriaCalcuumizomi.dll
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\bin\Debug\LibreriaCalcuumizomi.pdb
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.dll
+C:\Users\garci\source\repos\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.pdb
