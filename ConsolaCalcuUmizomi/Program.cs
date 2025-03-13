@@ -17,7 +17,7 @@ namespace ConsolaCalcuUmizomi
             {
                 try
                 {
-                    Console.WriteLine(" Menu Principal de Calculadora del tec ");
+                    Console.WriteLine(" Menu Principal de Calculadora equipo umizomi ");
                     Console.WriteLine("1. Sumar dos numeros");
                     Console.WriteLine("2. Restar dos numeros");
                     Console.WriteLine("3. Multiplicar");
