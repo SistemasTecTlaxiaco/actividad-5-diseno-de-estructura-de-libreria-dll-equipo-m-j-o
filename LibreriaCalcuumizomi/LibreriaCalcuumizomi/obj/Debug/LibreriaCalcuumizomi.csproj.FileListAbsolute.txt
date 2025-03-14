@@ -10,3 +10,9 @@ C:\Users\garci\source\repos\ConsolaCalcuUmizomi\LibreriaCalcuumizomi\LibreriaCal
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.csproj.CoreCompileInputs.cache
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.dll
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.pdb
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\bin\Debug\LibreriaCalcuumizomi.dll
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\bin\Debug\LibreriaCalcuumizomi.pdb
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.csproj.AssemblyReference.cache
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.csproj.CoreCompileInputs.cache
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.dll
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\LibreriaCalcuumizomi\LibreriaCalcuumizomi\obj\Debug\LibreriaCalcuumizomi.pdb

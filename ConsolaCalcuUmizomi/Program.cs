@@ -26,8 +26,9 @@ namespace ConsolaCalcuUmizomi
                     Console.WriteLine("6. Potencia");
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Exponencial (e^x)"); // Nueva opción
-                    Console.WriteLine("10. Salir"); // Actualizado para incluir la nueva opción
+                    Console.WriteLine("9. Exponencial (e^x)");
+                    Console.WriteLine("10. Logaritmo Natural (ln)"); 
+                    Console.WriteLine("11. Salir"); 
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
@@ -68,15 +69,19 @@ namespace ConsolaCalcuUmizomi
                             break;
                         case 9:
                             teclado0();
-                            Console.WriteLine("El resultado de la exponencial (e^x) es: " + Operaciones.exponencial(num0)); // Nueva opción
+                            Console.WriteLine("El resultado de la exponencial (e^x) es: " + Operaciones.exponencial(num0));
                             break;
-                        case 10:
+                        case 10: 
+                            teclado0();
+                            Console.WriteLine("El resultado del logaritmo natural (ln) es: " + Operaciones.logaritmoNatural(num0));
+                            break;
+                        case 11:
                             Console.WriteLine("Has elegido salir de la aplicación");
                             Environment.Exit(1);
                             salir = true;
                             break;
                         default:
-                            Console.WriteLine("Elige una opcion entre 1 y 10"); // Actualizado para incluir la nueva opción
+                            Console.WriteLine("Elige una opcion entre 1 y 11"); 
                             break;
                     }
                 }
@@ -86,11 +91,11 @@ namespace ConsolaCalcuUmizomi
                 }
                 catch (ArgumentException e)
                 {
-                    Console.WriteLine(e.Message); // Manejo de excepciones para la raíz cuadrada y otros métodos
+                    Console.WriteLine(e.Message); 
                 }
                 catch (DivideByZeroException e)
                 {
-                    Console.WriteLine(e.Message); // Manejo de excepciones para división y porcentaje
+                    Console.WriteLine(e.Message); 
                 }
             }
         }

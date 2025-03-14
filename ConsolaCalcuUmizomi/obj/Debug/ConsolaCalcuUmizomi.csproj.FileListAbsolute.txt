@@ -8,3 +8,13 @@ C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\Co
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.exe
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.pdb
 C:\Users\garci\source\repos\ConsolaCalcuUmizomi\ConsolaCalcuUmizomi\bin\Debug\LibreriaCalcuumizomi.dll
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.exe.config
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.exe
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\bin\Debug\ConsolaCalcuUmizomi.pdb
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\bin\Debug\LibreriaCalcuumizomi.dll
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\bin\Debug\LibreriaCalcuumizomi.pdb
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.csproj.AssemblyReference.cache
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.csproj.CoreCompileInputs.cache
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\obj\Debug\ConsolaC.21C2CF82.Up2Date
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.exe
+C:\Users\camar\OneDrive\Escritorio\calculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-m-j-o\ConsolaCalcuUmizomi\obj\Debug\ConsolaCalcuUmizomi.pdb

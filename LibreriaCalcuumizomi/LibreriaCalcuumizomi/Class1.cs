@@ -154,6 +154,20 @@ namespace libreriacalcuumizomi
             return Math.Exp(numero); // Calcula e^x
         }
 
+        /// <summary>
+        /// Calcula el logaritmo natural (ln) de un número.
+        /// </summary>
+        /// <param name="num">Número del que se calcula el logaritmo natural.</param>
+        /// <returns>Resultado del logaritmo natural.</returns>
+        public static double logaritmoNatural(double num)
+        {
+            if (num <= 0)
+            {
+                throw new ArgumentException("No se puede calcular el logaritmo natural de un número menor o igual a cero.");
+            }
+            return Math.Log(num);
+        }
+
         // Función auxiliar para calcular el máximo común divisor (GCD)
         private static int GCD(int a, int b)
         {
